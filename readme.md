@@ -1,13 +1,13 @@
 # ALL ABOUT DARKDEV07 
 
-A Dev who hates javascript and a big fan of php
+A Dev who hates javascript and a big fan of php/
 
 # About me 
 
---->  Pseudo Name : Dev, Mr Dev, Dark Php & Doxy
---->  Age : 26
---->  Hobbies : Tor, i2p , blockchain, and illustator 
---->  Work : Full time developer 
+--->  Pseudo Name : Dev, Mr Dev, Dark Php & Doxy /
+--->  Age : 26 /
+--->  Hobbies : Tor, i2p , blockchain, and illustator  /
+--->  Work : Full time developer  /
 
 # Experience 
 
